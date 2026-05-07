@@ -62,7 +62,7 @@ Through this project, I learned:
 ---
 
 ## Author
-Praveen Kumar Reddy
+P Praveen Kumar Reddy
 
 ---
 
