@@ -43,17 +43,6 @@ The dashboard helps identify:
 - `Customer_Churn.pbix`
 - `dataset.csv`
 - Dashboard screenshots
-
----
-
-## Dashboard Preview
-
-(Add your dashboard screenshots here)
-
-Example:
-
-![Dashboard Screenshot](screenshots/dashboard1.png)
-
 ---
 
 ## Business Problem
