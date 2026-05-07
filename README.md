@@ -43,6 +43,13 @@ The dashboard helps identify:
 - `Customer_Churn.pbix`
 - `dataset.csv`
 - Dashboard screenshots
+
+---
+
+## Live Dashboard
+Power BI Service Link:  
+https://app.powerbi.com/links/ySKYPZNCHj?ctid=b637c4f6-57b7-44dc-bce4-fec0cd202460&pbi_source=linkShare
+
 ---
 
 ## Business Problem
